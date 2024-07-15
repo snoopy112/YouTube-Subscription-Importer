@@ -1,6 +1,9 @@
-subscriptions.xml
 .DS_Store
-client_secrets.json
-subscribe.py-oauth2.json
+.idea/*
+venv/*
 env
+*.csv
+*.json
 channels_subscribed.txt
+__pycache__
+*.pyc
